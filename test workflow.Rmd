@@ -1,0 +1,6 @@
+---
+title: "workflow exercise"
+author: "Samantha van der Merwe"
+date: "September 24, 2017"
+output: github_document 
+---
